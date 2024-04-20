@@ -1,0 +1,22 @@
+#imagem_redonda1 {
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+body {
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.maps {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    background-color: #fff;
+}
+
+.maps iframe {
+    width: 100%;
+    height: 100%;
+}
