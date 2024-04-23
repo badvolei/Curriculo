@@ -1,5 +1,5 @@
 #imagem_redonda1 {
-    width: 200px;
+    width: 300px;
     border-radius: 50%;
     border: 2px solid black;
 }
@@ -7,6 +7,11 @@
 body {
     background-color: burlywood;
     font-family: 'Times New Roman', Times, serif
+}
+
+#dov {
+    display: flex;
+    justify-content: center;
 }
 
 .maps {
